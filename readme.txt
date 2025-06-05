@@ -36,4 +36,4 @@ The resulted SED is in the format of numpy binary file, with shape of [n_frequen
 Here, we provide an example of the oxygen sublattice of ice X with 21*21*21 supercells, including:
   - .conf file:            bcc.conf
   - calculated SED file:   sed.cpu/gpu.npy
-The atomic velocity file is too large to upload. You can e-mail to the author or run GPUMD with provided NEP potential.
+The atomic velocity file is too large to upload. You can e-mail to the author or run GPUMD with provided NEP potential (nep.txt).
