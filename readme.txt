@@ -1,5 +1,8 @@
 Python scripts to calculate phonon SED.
 
+*** The paper is published at [Phys. Rev. B 114, 024101, https://doi.org/10.1103/m1s6-6hdf].
+*** We are working to integrate this calculation into molecular dynamics softwares, so that one can calculate phonon SED on-the-fly.
+
 For small systems (< 10 000 atoms), CPU version is fast enough.
 For large systems (> 10 000 atoms), GPU version is more recommanded.
 
